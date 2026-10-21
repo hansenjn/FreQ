@@ -19,7 +19,8 @@ This program was developed in the research group Biophysical Imaging, Institute 
 This ImageJ plugin extracts periodic changes of pixel intensity, such as those evoked by ciliary beating. These periodic changes are further analyzed using a Fast Fourier Transformation. Among other parameters the plugin determines the (ciliary beat) frequency.
 
 To find out more about the application of the software and ouput parameters, please see our STAR protocol on the measurement of ciliary beating:
-Jeong I, Hansen JN, Wachten D, Jurisch-Yaksi N. Measurement of ciliary beating and fluid flow in the zebrafish adult telencephalon. STAR Protoc. 2022 Jul 15;3(3):101542. doi: [10.1016/j.xpro.2022.101542](https://doi.org/10.1016/j.xpro.2022.101542).
+
+> Jeong I, Hansen JN, Wachten D, Jurisch-Yaksi N. Measurement of ciliary beating and fluid flow in the zebrafish adult telencephalon. STAR Protoc. 2022 Jul 15;3(3):101542. doi: [10.1016/j.xpro.2022.101542](https://doi.org/10.1016/j.xpro.2022.101542).
 
 The underlying analysis methods were inspired by the MATLAB-based analysis presented in [Olstad et al., Curr. Biol, 2019](https://doi.org/10.1016/j.cub.2018.11.059), and [D'Gama et al., Cell Rep. 2021](https://doi.org/10.1016/j.celrep.2021.109775).
 
@@ -27,12 +28,7 @@ The underlying analysis methods were inspired by the MATLAB-based analysis prese
 In 2026, we introduced a wiki to the FreQ github repository that provides instructions on how to install and apply FreQ:
 https://github.com/hansenjn/FreQ/wiki.
 
-Furthermore, please also take a look at the STAR protocol describing application of FreQ to study the ciliary beating in the zebrafish:
-https://doi.org/10.1016/j.xpro.2022.101542
-
-> Jeong I, Hansen JN, Wachten D, Jurisch-Yaksi N. Measurement of ciliary beating and fluid flow in the zebrafish adult telencephalon. STAR Protoc. 2022 Sep 16;3(3):101542. PMID: 35842868. doi: [10.1016/j.xpro.2022.101542](https://doi.org/10.1016/j.celrep.2021.109775).
-
-For any questions or more detailed information, please contact jan.hansen(at)uni-bonn.de
+Furthermore, please also take a look at the STAR protocol ([Jeong et al. 2022](https://doi.org/10.1016/j.celrep.2021.109775)) describing application of FreQ to study the ciliary beating in the zebrafish. For any additional questions, please contact jan.hansen(at)uni-bonn.de.
 
 ## How to cite the FreQ plugin?
 Please acknowledge the methodology of the analysis by citing the following protocol:
